@@ -1,0 +1,26 @@
+{
+  "name": "-nodejs-rest-api-express-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanoliveira98/-NodeJS-REST-API-Express-MySQL.git"
+  },
+  "author": "Luan Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luanoliveira98/-NodeJS-REST-API-Express-MySQL/issues"
+  },
+  "homepage": "https://github.com/luanoliveira98/-NodeJS-REST-API-Express-MySQL#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
